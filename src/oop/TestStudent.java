@@ -16,6 +16,8 @@ public class TestStudent {
 		student1.enroll();
 		student1.pay();
 		student1.showCourses();
+		
+		System.out.print("I just update new line of code ");
 	
 
 		
